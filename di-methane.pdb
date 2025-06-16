@@ -1,0 +1,16 @@
+HEADER 
+TITLE     Built with Packmol                                             
+REMARK   Packmol generated pdb file 
+REMARK   Home-Page: http://www.ime.unicamp.br/~martinez/packmol
+REMARK
+HETATM    1  C   CH4 A   1       0.625   8.452  10.347                      C   
+HETATM    2  H1  CH4 A   1       0.011   7.540  10.170                      H   
+HETATM    3  H2  CH4 A   1       0.014   9.357  10.137                      H   
+HETATM    4  H3  CH4 A   1       0.966   8.470  11.406                      H   
+HETATM    5  H4  CH4 A   1       1.511   8.438   9.672                      H   
+HETATM    6  C   CH4 A   2       1.063   9.819   1.104                      C   
+HETATM    7  H1  CH4 A   2       1.348   8.746   1.184                      H   
+HETATM    8  H2  CH4 A   2       1.146  10.147   0.044                      H   
+HETATM    9  H3  CH4 A   2       0.015   9.953   1.454                      H   
+HETATM   10  H4  CH4 A   2       1.746  10.432   1.735                      H   
+END
